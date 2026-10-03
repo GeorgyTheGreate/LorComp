@@ -1,0 +1,39 @@
+{
+  "elements": [
+    {
+      "from": [
+        5,
+        5,
+        5
+      ],
+      "to": [
+        11,
+        11,
+        16
+      ],
+      "faces": {
+        "down": {
+          "texture": "#tex"
+        },
+        "up": {
+          "texture": "#tex"
+        },
+        "north": {
+          "texture": "#tex"
+        },
+        "south": {
+          "texture": "#tex"
+        },
+        "west": {
+          "texture": "#tex"
+        },
+        "east": {
+          "texture": "#tex"
+        }
+      }
+    }
+  ],
+  "textures": {
+    "tex": "lorcomp:blocks/copper_cable"
+  }
+}

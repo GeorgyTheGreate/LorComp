@@ -1,0 +1,16 @@
+item.lorcomp.lead_ingot.name=Lead Ingot
+item.lorcomp.aluminum_ingot.name=Aluminum Ingot
+item.lorcomp.copper_ingot.name=Copper Ingot
+item.lorcomp.steel_ingot.name=Steel Ingot
+item.lorcomp.bronze_ingot.name=Bronze Ingot
+item.lorcomp.rose_gold_ingot.name=Rose Gold Ingot
+tile.lorcomp.lead_ore.name=Lead Ore
+tile.lorcomp.aluminum_ore.name=Aluminum Ore
+tile.lorcomp.copper_ore.name=Copper Ore
+tile.lorcomp.reinforced_concrete.name=Reinforced Concrete
+tile.lorcomp.armored_glass.name=Armored Glass
+tile.lorcomp.pure_glass.name=Pure Glass
+tile.lorcomp.bunker_door.name=Bunker Door
+tile.lorcomp.copper_cable.name=Copper Cable
+tile.lorcomp.gold_cable.name=Gold Cable
+tile.lorcomp.rose_gold_cable.name=Rose Gold Cable

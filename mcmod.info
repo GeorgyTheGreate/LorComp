@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "lorcomp",
+    "name": "LorComp",
+    "description": "Глубокая технологическая модификация для Minecraft 1.12.2.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["LorComp Team"],
+    "credits": "Minecraft Forge",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      "required-after:forge@[14.23.5.2860,)",
+      "required-after:minecraft@[1.12.2]"
+    ]
+  }
+]

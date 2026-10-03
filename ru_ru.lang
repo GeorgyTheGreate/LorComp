@@ -1,0 +1,16 @@
+item.lorcomp.lead_ingot.name=Слиток свинца
+item.lorcomp.aluminum_ingot.name=Слиток алюминия
+item.lorcomp.copper_ingot.name=Слиток меди
+item.lorcomp.steel_ingot.name=Слиток стали
+item.lorcomp.bronze_ingot.name=Слиток бронзы
+item.lorcomp.rose_gold_ingot.name=Слиток розового золота
+tile.lorcomp.lead_ore.name=Свинцовая руда
+tile.lorcomp.aluminum_ore.name=Алюминиевая руда
+tile.lorcomp.copper_ore.name=Медная руда
+tile.lorcomp.reinforced_concrete.name=Армированный бетон
+tile.lorcomp.armored_glass.name=Бронированное стекло
+tile.lorcomp.pure_glass.name=Чистое стекло
+tile.lorcomp.bunker_door.name=Бункерная дверь
+tile.lorcomp.copper_cable.name=Медный кабель
+tile.lorcomp.gold_cable.name=Золотой кабель
+tile.lorcomp.rose_gold_cable.name=Кабель из розового золота

@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "lorcomp:aluminum_ore" }
+  }
+}

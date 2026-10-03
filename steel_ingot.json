@@ -1,0 +1,4 @@
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "lorcomp:items/steel_ingot" }
+}

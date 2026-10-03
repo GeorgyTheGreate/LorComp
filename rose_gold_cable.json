@@ -1,0 +1,11 @@
+{
+  "multipart": [
+    { "apply": { "model": "lorcomp:block/rose_gold_cable_core" } },
+    { "when": { "north": true }, "apply": { "model": "lorcomp:block/rose_gold_cable_north" } },
+    { "when": { "south": true }, "apply": { "model": "lorcomp:block/rose_gold_cable_south" } },
+    { "when": { "east": true }, "apply": { "model": "lorcomp:block/rose_gold_cable_east" } },
+    { "when": { "west": true }, "apply": { "model": "lorcomp:block/rose_gold_cable_west" } },
+    { "when": { "up": true }, "apply": { "model": "lorcomp:block/rose_gold_cable_up" } },
+    { "when": { "down": true }, "apply": { "model": "lorcomp:block/rose_gold_cable_down" } }
+  ]
+}

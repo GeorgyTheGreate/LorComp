@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "lorcomp:bunker_door" }
+  }
+}
